@@ -64,7 +64,7 @@ python3 -m Hack
 
 ### HEROKU
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itzshukla/STRANGER-SESSION-HACK)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deadlyhoney/HONEY-SESSION-HACK)
 
 ## Support
 
